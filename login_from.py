@@ -10,7 +10,7 @@ st.subheader("Mang student efficiently and effectively")
 
 #text method to display information
 
-st.text("Hii,I am krishna Anand Chauhan ")
+st.text("Hii,I am shivaram ")
 
 #horizontal line
 
@@ -18,7 +18,7 @@ st.markdown("----------------------------")
 
 #write method--allows to write something
 
-st.write(" hello krishna")
+st.write(" hello shivaram")
 st.write(123456)
 st.write(1,2,3,4,5)
 
@@ -138,3 +138,4 @@ def laod_data():
     return [1,2,3,4]
 data=laod_data()
 st.write(data)
+
